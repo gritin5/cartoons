@@ -1,0 +1,38 @@
+*{  
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+ 
+}
+h1{
+font-size: 100px !important;
+font-family: 'Carter One', cursive;
+}
+
+.caja1{
+    font-family: 'Carter One', cursive; 
+    width: 600px;
+    height: 600px;
+    background-color: rgb(245, 216, 221);
+    color: rgb(255, 147, 165) !important;
+    border: 2px violet groove;
+    padding: 10px 30px;
+    margin: 10px;
+    background-image: url(images/The-Pink-Panther-Free-Picture-PNG.png);
+    background-position: center;
+    background-size: 600px;
+    background-repeat: no-repeat;
+}
+.caja2{
+    width: 600px;
+    height: 600px;
+    background-color: yellow;
+    border: 2px black groove;
+    padding: 10px 30px;
+    margin: 10px;
+    background-image: url(images/Homero-Simpson-1024x490.png);
+    background-position:bottom;
+    background-size: 500px;
+    background-repeat: no-repeat;
+    font-family: 'Homer Simpson Revised', sans-serif;                                
+}
